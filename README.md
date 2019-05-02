@@ -1,7 +1,7 @@
 
 
 
-[http:meagancojocar.github.io]
+[Personal website]
 ==============
 Forked from cassidoo.co (http://cassidoo.co)
 
