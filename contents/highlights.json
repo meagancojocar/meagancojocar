@@ -2,101 +2,117 @@
   "data": [
     {
       "type": "job",
-      "date": "August 2018",
+      "date": "May 2019",
       "description": {
-        "what": "Joined",
-        "emphasis": "CodePen",
-        "info": "I missed coding and I'm back at it at <a href='https://codepen.io/'>CodePen</a>! Join me in making fancy web experiments!"
+        "what": "Transitioned to Product and Development Manager",
+        "emphasis": "Power Ledger",
+        "info": "After maintaining Product Management duties alongside managing the Analyst team at Power Ledger for 8 months, I transitioned to a full-time role within the Development team as the Product Manager."
       }
     },
     {
       "type": "job",
-      "date": "July 2018",
+      "date": "June 2018",
       "description": {
-        "what": "Started as Director of Outreach for",
-        "emphasis": "cKeys",
-        "info": "<a href='https://ckeys.org/'>cKeys</a> is a 501(c)(3) non-profit that connects and educates people interested in keyboards and technology. My love for keyboards is more official now!"
+        "what": "Promoted to",
+        "emphasis": "Principal Analyst",
+        "info": "I managed the Analyst team, which ranged from 5-9 team members during my time as the team lead. The Analyst team was resposible for drafting business development proposals, data modeling and analysis, and platform QA testing"
+      }
+    },
+      "type": "event",
+      "date": "April 2018",
+      "description": {
+        "what": "Presented at",
+        "emphasis": "Event Horizon",
+        "info": "https://youtu.be/4v3F5W1IBHk"
+      }
+    },
+  },
+  "type": "event",
+  "date": "November 2017",
+  "description": {
+    "what": "Attended various",
+    "emphasis": "conferences",
+    "info": "Money 20/20 in Las Vegas, Ethereal in San Francisco, BlockSplit in Split, Croatia, Climte-Kic in Paris, Event Horizon in Berlin. "
+  }
+},
+    {
+      "type": "job",
+      "date": "January 2017",
+      "description": {
+        "what": "Joined Power Ledger as an",
+        "emphasis": "Analyst",
+        "info": "Began working at Power Ledger as they're first fulltime employee. Today we have 25 employees."
       }
     },
     {
       "type": "fun",
-      "date": "March 2018",
+      "date": "2016",
       "description": {
-        "what": "Released",
-        "emphasis": "the official Scrabble Mechanical Keyboard",
-        "info": "I designed, licensed, and launched a Scrabble keyboard with Massdrop and Hasbro! <a href='https://www.producthunt.com/posts/massdrop-x-hasbro-scrabble-keyboard'>Check out the keyboard and press about it here!</a>"
+        "what": "",
+        "emphasis": "Backpacked",
+        "info": "Thailand, Vietnam, Taiwan, Hong Kong, Malaysia and Indonesia."
       }
-    },
-    {
-      "type": "job",
-      "date": "February 2018",
-      "description": {
-        "what": "Joined",
-        "emphasis": "Amazon",
-        "info": "I'm all fancy with the title Head of Developer Voice Programs! Want to build a skill for Alexa? You should."
-      }
-    },
     {
       "type": "event",
-      "date": "November 2017",
+      "date": "July 2016",
       "description": {
-        "what": "Got",
-        "emphasis": "married",
-        "info": "It's real, people. I'm a married adult!"
+        "what": "Completed my",
+        "emphasis": "Bachelor of Commerce",
+        "info": "Finished my degree while studying at the University of Western Australia in Perth, Australia"
       }
     },
+    // {
+    //   "type": "fun",
+    //   "date": "February 2016",
+    //   "description": {
+    //     "what": "Moved to",
+    //     "emphasis": "Perth",
+    //     "info": "Time to get my nature on. Gonna climb a mountain."
+    //   }
+    // },
     {
       "type": "job",
-      "date": "November 2017",
+      "date": "January 2016",
       "description": {
-        "what": "Released",
-        "emphasis": "my online JavaScript course on Udemy",
-        "info": "Super proud to have finished making my class, a JS and React course for intermediate developers. Check it out <a href='https://www.udemy.com/js-and-react-for-devs'>here</a>!"
+        "what": "Student Brand Manager at",
+        "emphasis": "Red Bull",
+        "info": "While studying at the University of Calgary, I worked 2 years with Red Bull as the campus Student Brand Manager"
       }
     },
-    {
-      "type": "fun",
-      "date": "April 2017",
-      "description": {
-        "what": "Released",
-        "emphasis": "todometer",
-        "info": "Finally finished up a side project I've been wanting to do for ages. Check it out <a href='http://cassidoo.github.io/todometer'>here</a>!"
-      }
-    },
-    {
-      "type": "event",
-      "date": "April 2017",
-      "description": {
-        "what": "Selected as one of the",
-        "emphasis": "2017 Iowa STATEment Makers",
-        "info": "I'm honored to be chosen as one of the 2017 <a href='http://www.isualum.org/pride/awards/statement-makers/2017-iowa-statement-makers/'>Iowa STATEment Makers</a>!"
-      }
-    },
-    {
-      "type": "fun",
-      "date": "December 2016",
-      "description": {
-        "what": "Got",
-        "emphasis": "engaged",
-        "info": "A whole new adventure awaits!"
-      }
-    },
+    // {
+    //   "type": "fun",
+    //   "date": "April 2017",
+    //   "description": {
+    //     "what": "Released",
+    //     "emphasis": "todometer",
+    //     "info": "Finally finished up a side project I've been wanting to do for ages. Check it out <a href='http://cassidoo.github.io/todometer'>here</a>!"
+    //   }
+    // },
+    // {
+    //   "type": "event",
+    //   "date": "April 2017",
+    //   "description": {
+    //     "what": "Selected as one of the",
+    //     "emphasis": "2017 Iowa STATEment Makers",
+    //     "info": "I'm honored to be chosen as one of the 2017 <a href='http://www.isualum.org/pride/awards/statement-makers/2017-iowa-statement-makers/'>Iowa STATEment Makers</a>!"
+    //   }
+    // },
+    // {
+    //   "type": "fun",
+    //   "date": "December 2016",
+    //   "description": {
+    //     "what": "Got",
+    //     "emphasis": "engaged",
+    //     "info": "A whole new adventure awaits!"
+    //   }
+    // },
     {
       "type": "job",
-      "date": "November 2016",
+      "date": "September 2015",
       "description": {
-        "what": "Joined full time at",
-        "emphasis": "L4 Digital",
-        "info": "Joined as a senior software engineer making cool web things."
-      }
-    },
-    {
-      "type": "fun",
-      "date": "November 2016",
-      "description": {
-        "what": "Moved to",
-        "emphasis": "Seattle",
-        "info": "Time to get my nature on. Gonna climb a mountain."
+        "what": "Business Risk Analyst internship at",
+        "emphasis": "The City of Calgary",
+        "info": "Spent the summer createing business impact assessment models and strategies to address the findings."
       }
     },
     {
