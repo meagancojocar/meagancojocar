@@ -54,12 +54,12 @@ function highlights() {
   });
 }
 
-// first 5 press articles
+// first 4 press articles
 function pressVars() {
   var recent = [];
 
   pullPress().then(function(r) {
-    for (var i = 0; i < 5; i++) {
+    for (var i = 0; i < 4; i++) {
       recent[i] = r.data[i];
     }
   })
