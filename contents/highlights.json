@@ -18,6 +18,7 @@
         "info": "I managed the Analyst team, which ranged from 5-9 team members during my time as the team lead. The Analyst team was resposible for drafting business development proposals, data modeling and analysis, and platform QA testing"
       }
     },
+    {
       "type": "event",
       "date": "April 2018",
       "description": {
@@ -26,8 +27,7 @@
         "info": "https://youtu.be/4v3F5W1IBHk"
       }
     },
-  },
-  {
+    {
     "type": "fun",
     "date": "September 2018",
     "description": {
@@ -62,6 +62,7 @@
         "emphasis": "Backpacked",
         "info": "Thailand, Vietnam, Taiwan, Hong Kong, Malaysia and Indonesia."
       }
+    },
     {
       "type": "event",
       "date": "July 2016",
@@ -106,4 +107,6 @@
         "emphasis": "Microsoft",
         "info": "Managed University of Calgary Windows 8 team."
       }
-    },
+    }
+  ]
+}
