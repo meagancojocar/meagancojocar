@@ -107,6 +107,15 @@
         "emphasis": "Microsoft",
         "info": "Managed University of Calgary Windows 8 team."
       }
+    },
+    {
+      "type": "event",
+      "date": "September 2012",
+      "description": {
+        "what": "Began studies at ",
+        "emphasis": "The University of Calgary",
+        "info": "Enrolled in a business degree at the University of Calgary in Alberta, Canada."
+      }
     }
   ]
 }
